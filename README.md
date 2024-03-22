@@ -3,13 +3,13 @@ I'm a freshman at The University of Illinois Urbana-Champaign, majoring in Compu
 ### 🤝 Collaboration<br>
 - I am open to collaborating on innovative projects, particularly those that can make use of my burgeoning coding skills.<br>- If you are working on something related to machine learning, web development, or anything that pushes the boundaries of technology, let's connect!<br>
 ### 🤲 Looking For Help
-<br>- As I navigate my university curriculum and personal learning goals, I welcome any mentorship, advice, or resources on advanced computer science topics, especially in artificial intelligence and efficient algorithms.<br>
+- As I navigate my university curriculum and personal learning goals, I welcome any mentorship, advice, or resources on advanced computer science topics, especially in artificial intelligence and efficient algorithms.<br>
 ### 🌱 I’m Currently Learning
-<br>- I am diving deep into data structures and algorithms to prepare for software development internships and build a strong foundational knowledge.<br>- Also, I'm exploring the latest trends in software engineering and how to best apply them to real-world problems.<br>
+- I am diving deep into data structures and algorithms to prepare for software development internships and build a strong foundational knowledge.<br>- Also, I'm exploring the latest trends in software engineering and how to best apply them to real-world problems.<br>
 ### 📬 Ask Me About
-<br>- Feel free to ask me about my journey from Jaipur to Urbana, the transition to life as an international student, or my experiences in the tech space as a university student.<br>
+- Feel free to ask me about my journey from Jaipur to Urbana, the transition to life as an international student, or my experiences in the tech space as a university student.<br>
 ### Fun Fact
-<br>- Aside from my studies, I love to immerse myself in different cultures through their culinary arts. You’ll often find me trying out a new recipe or a local delicacy!
+- Aside from my studies, I love to immerse myself in different cultures through their culinary arts. You’ll often find me trying out a new recipe or a local delicacy!
 
 
 ## 🌐 Socials:

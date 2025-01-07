@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a freshman at The University of Illinois Urbana-Champaign, majoring in Computer Science with an anticipated early graduation in 2026.<br>Originating from Jaipur, Rajasthan, India, I'm currently embracing the college experience in Urbana, where I live on campus.<br>My passion for technology is matched by my drive to excel and my ambition to make an impact in the field of software development.<be>
+I'm a sophomore at The University of Illinois Urbana-Champaign, majoring in Computer Science with an anticipated early graduation in 2026.<br>Originating from Jaipur, Rajasthan, India, I'm currently embracing the college experience in Urbana, where I live on campus.<br>My passion for technology is matched by my drive to excel and my ambition to make an impact in the field of software development.<be>
 ### 🤝 Collaboration
 - I am open to collaborating on innovative projects, particularly those that can make use of my burgeoning coding skills.
 - If you are working on something related to machine learning, web development, or anything that pushes the boundaries of technology, let's connect!

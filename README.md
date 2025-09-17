@@ -1,5 +1,5 @@
 **About Me**  
-I’m a junior majoring in Computer Science at UIUC (’26), originally from Jaipur. I’m passionate about building scalable software and solving tough technical challenges, including low-level systems programming and performance optimization, high-frequency trading infrastructure and algorithmic strategies, AI/ML applications, and end-to-end software engineering from design through deployment.
+I’m a Junior majoring in Computer Science at UIUC (’27), originally from India. I’m passionate about building scalable software and solving tough technical challenges, including low-level systems programming and performance optimization, high-frequency trading infrastructure and algorithmic strategies, AI/ML applications, and end-to-end software engineering from design through deployment.
 
 **Open to**  
 - Collaborating on low-level systems, HFT, AI/ML, or general software projects  

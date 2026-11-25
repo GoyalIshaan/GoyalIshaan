@@ -1,2 +1,2 @@
 **About Me**  
-I’m a Senior majoring in Computer Science at UIUC (’27), originally from India. I’m passionate about building scalable software and solving tough technical challenges, including low-level systems programming and performance optimization, high-frequency trading infrastructure and algorithmic strategies, AI/ML applications, and end-to-end software engineering from design through deployment.
+I’m a Senior majoring in Computer Science at UIUC (’27). I build ML systems and developer tools. I've worked on audio models that run on iPhones, compilers for neural-network verification, and coding agents whose work developers can inspect and control.
